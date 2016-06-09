@@ -1,0 +1,158 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.serviciosizquierda {
+	float: left;
+	width: 550px;
+}
+.serviciosderecha {
+	float: left;
+	width: 200px;
+	padding-left: 20px;
+}
+.barraserviciosizquierda {
+	border-top-width: thin;
+	border-top-style: solid;
+	border-top-color: #753069;
+	border-right-color: #753069;
+	border-bottom-color: #753069;
+	border-left-color: #753069;
+	font-family: Verdana, Geneva, sans-serif;
+	color: #753069;
+	padding-bottom: 20px;
+	padding-top: 20px;
+	font-size: 12px;
+}.barraserviciosizquierdasinbarra {
+	border-top-width: thin;
+	border-top-style: none;
+	border-top-color: #517F23;
+	border-right-color: #517F23;
+	border-bottom-color: #517F23;
+	border-left-color: #517F23;
+	font-family: Verdana, Geneva, sans-serif;
+	color: #517F23;
+	padding-bottom: 20px;
+	padding-top: 20px;
+	font-size: 12px;
+	text-align: center;
+}
+.barraserviciosderecha{
+	border-top-color: #CCC;
+	border-right-color: #CCC;
+	border-bottom-color: #CCC;
+	border-left-color: #CCC;
+	font-family: Verdana, Geneva, sans-serif;
+	color: #753069;
+	padding-bottom: 10px;
+	padding-top: 10px;
+	font-size: 12px;
+}
+
+ 
+.barraserviciosderecha a, .barraserviciosderecha a:visited{
+	border-top-color: #CCC;
+	border-right-color: #CCC;
+	border-bottom-color: #CCC;
+	border-left-color: #CCC;
+	font-family: Verdana, Geneva, sans-serif;
+	color: #753069;
+	padding-bottom: 10px;
+	padding-top: 10px;
+	font-size: 12px;
+}
+ 
+.barraserviciosderecha a:hover, .barraserviciosderecha a:active, .barraserviciosderecha a:focus{
+	border-top-color: #CCC;
+	border-right-color: #CCC;
+	border-bottom-color: #CCC;
+	border-left-color: #CCC;
+	font-family: Verdana, Geneva, sans-serif;
+	color: #753069;
+	padding-bottom: 10px;
+	padding-top: 10px;
+	font-size: 12px;
+}
+
+
+.promociones {
+	border-top-width: thin;
+	border-top-style: solid;
+	border-top-color: #517F23;
+	border-right-color: #517F23;
+	border-bottom-color: #517F23;
+	border-left-color: #517F23;
+	font-family: Verdana, Geneva, sans-serif;
+	color: #517F23;
+	font-size: 12px;
+	height: 120px;
+}
+.promocionesfoto {
+	float: left;
+	height: 100px;
+	width: 100px;
+	border-right-width: thin;
+	border-right-style: solid;
+	border-right-color: #D8B670;
+	margin: 10px;
+}
+.promocionesventa {
+	float: left;
+	height: 100px;
+	width: 630px;
+	margin: 10px;
+}
+
+.fotoventa {
+	height: 90px;
+	width: 90px;
+	overflow:hidden;
+	border: medium solid #FFF;
+}
+.barraserviciosderechaarriba {
+	padding-top: 2px;
+	padding-bottom: 2px;
+	border-bottom-width: thin;
+	border-bottom-style: solid;
+	border-bottom-color: #666600;
+}
+.barraserviciosderechaabajo {
+	padding-top: 10px;
+}
+.barraserviciosderechaabajo a, .barraserviciosderechaabajo a:visited {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color:#9B7141;
+}
+.barraserviciosderechaabajo a:hover, .barraserviciosderechaabajo a:active, .barraserviciosderechaabajo a:focus {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color:#999999;
+}
+.promocionesventaarriba {
+	color: #000;
+	margin: 5px;
+	font-weight: bold;
+}
+.promocionesventamedio {
+	margin: 5px;
+	color: #517F23;
+}
+.promocionesvenasabajo {
+}
+
+.lista {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color:#9B7141;
+}
+
+.lista a, .lista a:visited {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color:#9B7141;
+}
+.lista a:hover, .lista a:active, .lista a:focus {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color:#999;
+}

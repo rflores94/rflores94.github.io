@@ -1,0 +1,165 @@
+@charset "UTF-8";
+
+.lateralgaltabla {
+	
+width: 780px;
+	height: 510px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;	
+}
+.lateralgalfila {
+	
+width: 780px;
+	height: 510px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;	
+}
+.lateralgalcolumnapeque {
+	width: 120px;
+	height: 450px;
+	overflow:hidden;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	float: left;
+	padding:5px;
+}
+.lateralgalcolumnagrande {
+	width: 620px;
+	height: 430px;
+	overflow:hidden;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	float: left;
+	padding:10px;
+	border-top-width: 0px;
+	border-right-width: 0px;
+	border-bottom-width: 0px;
+	border-left-width: 0px;
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+}
+.lateralfotogalpequena {
+	height: 100px;
+	width: 98px;
+	
+}
+.lateralfotogalgrande {
+	height: 430px;
+	width: 620px;
+}
+
+/*  fotos lateral */
+.cuadrodefotopeque {
+	float: left;
+	width: 110px;
+	height: 110px;
+	overflow:hidden;
+	border-top-width: 0px;
+	border-right-width: 0px;
+	border-bottom-width: 0px;
+	border-left-width: 0px;
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+}
+
+.cuadrodefotopeque a, cuadrodefotopeque a:visited{
+	float: left;
+	width: 110px;
+	height: 110px;
+	padding: 5px;
+	background-color: #753069;
+}
+
+.cuadrodefotopeque a:hover , cuadrodefotopeque a:focus , cuadrodefotopeque a:active{
+	float: left;
+	width: 110px;
+	height: 110px;
+	padding: 5px;
+	background-color: #EADCD7;
+}
+
+
+
+
+/*----------*/
+.lateralfilatitulo {
+	width: 100%;
+	display: flex;
+	flex-direction: row;
+	height: 30px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	alignment-adjust:central;
+	text-align: center;
+	
+}
+.lateralfilatitulointerior {
+	width: 20%;
+	height: 20px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	padding:5px;
+	float: left;
+	overflow:hidden;
+	font-size: 14px;
+	color: #517F23;
+	background-color: #753069;
+}
+
+.lateralfilatitulointerior  a, .lateralfilatitulointerior a:visited {
+	width: 140px;
+	height: 20px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	float: left;
+	overflow:hidden;
+	text-decoration: none;
+	vertical-align: central;
+	background-color: #753069;
+	color: #EADCD7;
+}
+
+.lateralfilatitulointerior  a:hover, .lateralfilatitulointerior a:active, .lateralfilatitulointerior a:focus{
+	width: 140px;
+	height: 20px;
+	float: left;
+	overflow:hidden;
+	vertical-align: central;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color:#753069;
+	background-color: #EADCD7;
+}
+
+.lateralfilatitulointeriorprimera {
+	background:#FFF;
+	display: none;
+	
+	*width: 140px;
+	height: 20px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	padding:0px;
+	float: left;
+	overflow:hidden;
+}
+/*
+
+<div class="lateralgaltabla">
+      <div class="lateralfilatitulo">
+      	<div class="lateralfilatitulointeriorprimera"></div>	
+        <div class="lateralfilatitulointerior"><a href="#">Nueva Construcción</a></div>
+      	<div class="lateralfilatitulointerior"><a href="#">Reformas</a></div>	
+      	<div class="lateralfilatitulointerior"><a href="#">Interiores</a></div>	
+        <div class="lateralfilatitulointerior"><a href="#">Exteriores</a></div>	
+      </div>
+      <div class="lateralgalfila">
+        
+        <div class="lateralgalcolumnapeque">
+        	<div class="cuadrodefotopeque"><a href="#"><img src="portada2.jpg" class="fotogaleriapequena"/></a></div>
+        	<div class="cuadrodefotopeque"><a href="#"><img src="portada1.jpg" class="fotogaleriapequena"/></a></div>
+        	<div class="cuadrodefotopeque"><a href="#"><img src="portada3.jpg" class="fotogaleriapequena"/></a></div>
+   	      	<div class="cuadrodefotopeque"><a href="#"><img src="portada4.jpg" class="fotogaleriapequena"/></a></div>
+        </div>
+        <div class="lateralgalcolumnagrande"><a href="#"><img src="portada1.jpg" class="lateralfotogalgrande"/></a></div>
+        
+      </div>
+    </div>
+	
+	*/

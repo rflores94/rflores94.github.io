@@ -1,0 +1,51 @@
+@charset "UTF-8";
+
+
+
+
+.supbarra {
+	width:780px;
+	height:25px;
+	background-color: #753069;
+	padding-left: 15px;
+	
+	
+}
+.sup {
+	width:14%;
+	height:100%;
+	float:left;
+	position: relative;
+	font-style: normal;
+	vertical-align:central;
+	background-color: #753069;
+	font-size: 12px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	color: #E2D1CB;
+}
+
+.sup a, .sup a:visited { /* al agrupar estos selectores, se asegurará de que los vínculos mantengan el aspecto de botón incluso después de haber sido visitados */
+	padding: 3px 0px 3px 0px;
+	display: block; /* esto asigna propiedades de bloque al vínculo, lo que provoca que llene todo el LI que lo contiene. Esto provoca que toda el área reaccione a un clic de ratón. */
+	width: 100%;  /*esta anchura hace que se pueda hacer clic en todo el botón para IE6. Puede eliminarse si no es necesario proporcionar compatibilidad con IE6. Calcule la anchura adecuada restando el relleno de este vínculo de la anchura del contenedor de barra lateral. */
+	text-decoration: none;
+	float: left;
+	position: relative;
+	text-align: center;
+	vertical-align: central;
+	background-color: #753069;
+	font-size: 12px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	color: #EADCD7;	
+}
+.sup a:hover, .sup a:active, .sup a:focus { /* esto cambia el color de fondo y del texto tanto para usuarios que naveguen con ratón como para los que lo hagan con teclado */
+	padding: 3px 3px 3px 3px;
+	float: left;
+	position: relative;
+	vertical-align: central;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color:#753069;
+	background-color: #EADCD7;
+	
+}

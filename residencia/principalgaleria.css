@@ -1,0 +1,371 @@
+@charset "UTF-8";
+/* CSS Document */
+
+
+/* imagen   */
+.fotocentral {
+	height: 160px;
+	width: 100%;
+	border:none;
+}
+/*--------parte superior-------*/
+.cuadrogeneral {
+	width: 780px;
+	height: 180px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	background-color: #FFF;
+}
+.cuadromitad {
+	float: left;
+	width: 280px;
+	height: 160px;
+	display: block; /* esto asigna propiedades de bloque al vínculo, lo que provoca que llene todo el LI que lo contiene. Esto provoca que toda el área reaccione a un clic de ratón. */
+	background-color: #636;
+}
+
+.cuadromitad a, .cuadromitad a:visited {
+	padding: 10px 10px 10px 10px;
+	width: 100%;
+	display: block; /* esto asigna propiedades de bloque al vínculo, lo que provoca que llene todo el LI que lo contiene. Esto provoca que toda el área reaccione a un clic de ratón. */
+	height: 160px;
+	background-color: #636;
+	float: left;
+	vertical-align: central;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color:#FFF;
+}
+.cuadromitad a:hover, .cuadromitad a:active, .cuadromitad a:focus {
+	width: 100%;
+	display: block; /* esto asigna propiedades de bloque al vínculo, lo que provoca que llene todo el LI que lo contiene. Esto provoca que toda el área reaccione a un clic de ratón. */
+	height: 160px;
+	float: left;
+	vertical-align: central;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color:#FFF;
+	background-color: #DBCABB;
+}
+/*---------------------fotodeportada------------*/
+
+.fotoportadageneral {
+	width: 780px;
+	height: 400px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	background-color: #FFF;
+}
+.fotoportada {
+	float: left;
+	width: 600px;
+	height: 260px;
+	display: block; /* esto asigna propiedades de bloque al vínculo, lo que provoca que llene todo el LI que lo contiene. Esto provoca que toda el área reaccione a un clic de ratón. */
+	background-color: #636;
+}
+.fotoportadaizquierda {
+	float: left;
+	width: 10px;
+	position: relative;
+	height: 20px;
+	text-align: center;
+}
+.fotoportada a, .fotoportada a:visited {
+	padding: 10px 10px 10px 10px;
+	width: 100%;
+	display: block; /* esto asigna propiedades de bloque al vínculo, lo que provoca que llene todo el LI que lo contiene. Esto provoca que toda el área reaccione a un clic de ratón. */
+	height: 160px;
+	background-color: #636;
+	float: left;
+	vertical-align: central;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color:#FFF;
+}
+.fotoportada a:hover, .fotoportada a:active, .fotoportada a:focus {
+	width: 100%;
+	display: block; /* esto asigna propiedades de bloque al vínculo, lo que provoca que llene todo el LI que lo contiene. Esto provoca que toda el área reaccione a un clic de ratón. */
+	height: 160px;
+	float: left;
+	vertical-align: central;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color:#FFF;
+	background-color: #DBCABB;
+}
+
+
+/*-----------letras de fotos-------*/
+
+.cuadrogeneralinferior {
+	width: 780px;
+	height: 20px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	background-color: #FFF;
+}
+.cuadromitadinferior {
+	background-color:#CCCCCC;
+	float: left;
+	width: 280px;
+	height: 20px;
+	font-size: 14px;
+	text-align: center;
+	float: left;
+	   
+}
+.cuadrogeneralseparador {
+	width: 780px;
+	height: 10px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	background-color: #FFF;
+}
+.cuadromitadinferior a, .cuadromitadinferior a:visited {
+	display: block; /* esto asigna propiedades de bloque al vínculo, lo que provoca que llene todo el LI que lo contiene. Esto provoca que toda el área reaccione a un clic de ratón. */
+	padding:0px 10px 0px 10px;
+	font-size: 14px;
+	float: left;
+	height: 20px;
+	width: 100%;
+	
+	text-decoration: none;
+	background-color: #DDD;
+	font-size: 14px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	color: #660;
+}
+
+.cuadromitadinferior a:hover, .cuadromitadinferior a:active, .cuadromitadinferior a:focus { 
+	width: 280px;
+
+display: block; /* esto asigna propiedades de bloque al vínculo, lo que provoca que llene todo el LI que lo contiene. Esto provoca que toda el área reaccione a un clic de ratón. */
+
+	
+	
+	height: 20px;
+	
+	background:#8F733f;
+	
+	float: left;
+	position: relative;
+	
+	vertical-align: central;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color:#000;
+}
+
+/*-------------------------------en blanco-----*/
+.cuadromitadinferiorblanco {
+	
+	float: left;
+	width: 280px;
+	height: 20px;
+	font-size: 14px;
+	text-align: center;
+	float: left;
+	
+	
+	   
+}
+.cuadromitadinferiorblanco a, .cuadromitadinferiorblanco a:visited {
+	display: block; /* esto asigna propiedades de bloque al vínculo, lo que provoca que llene todo el LI que lo contiene. Esto provoca que toda el área reaccione a un clic de ratón. */
+	padding:0px 10px 0px 10px;
+	font-size: 14px;
+	float: left;
+	height: 20px;
+	width: 100%;
+	
+	text-decoration: none;
+	
+	font-size: 14px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	color:#000;
+}
+
+.cuadromitadinferiorblanco a:hover, .cuadromitadinferiorblanco a:active, .cuadromitadinferiorblanco a:focus { 
+	width: 280px;
+
+display: block; /* esto asigna propiedades de bloque al vínculo, lo que provoca que llene todo el LI que lo contiene. Esto provoca que toda el área reaccione a un clic de ratón. */
+
+	
+	
+	height: 20px;
+	
+	
+	
+	float: left;
+	position: relative;
+	
+	vertical-align: central;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	
+}
+
+
+
+/* letras de los cuadros */
+.cuadrogeneralinferiorletras {
+	width: 780px;
+	height: 40px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+.cuadromitadinferiorletras {
+	background-color:#CCCCCC;
+	float: left;
+	width: 280px;
+	height: 20px;
+	font-size: 12px;
+	text-align:left;
+	float: left;
+	   
+}
+.cuadromitadinferiorletras a, .cuadromitadinferiorletras a:visited {
+	display: block; /* esto asigna propiedades de bloque al vínculo, lo que provoca que llene todo el LI que lo contiene. Esto provoca que toda el área reaccione a un clic de ratón. */
+	padding:0px 10px 0px 10px;
+	font-size: 14px;
+	float: left;
+	height: 35px;
+	width: 100%;
+	
+	text-decoration: none;
+	background-color: #DDD;
+	font-size: 12px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	color: #660;
+}
+
+.cuadromitadinferiorletras a:hover, .cuadromitadinferiorletras a:active, .cuadromitadinferiorletras a:focus { 
+	width: 280px;
+
+display: block; /* esto asigna propiedades de bloque al vínculo, lo que provoca que llene todo el LI que lo contiene. Esto provoca que toda el área reaccione a un clic de ratón. */
+
+	
+	
+	height: 35px;
+	
+	background:#8F733f;
+	
+	float: left;
+	position: relative;
+	
+	vertical-align: central;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color:#FFF;
+}
+
+
+
+
+/* --------letras de cuadrod blanco _________*/
+
+.cuadrogeneralinferiorletrasblanco {
+	width: 780px;
+	height: 40px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	background-color: #FFF;
+	
+}
+.cuadromitadinferiorletrasblanco {
+	
+	float: left;
+	width: 280px;
+	height: 20px;
+	font-size: 12px;
+	text-align:left;
+	float: left;
+	   
+}
+.cuadromitadinferiorletrasblanco a, .cuadromitadinferiorblancoletras a:visited {
+	display: block; /* esto asigna propiedades de bloque al vínculo, lo que provoca que llene todo el LI que lo contiene. Esto provoca que toda el área reaccione a un clic de ratón. */
+	padding:0px 10px 0px 10px;
+	font-size: 14px;
+	float: left;
+	height: 35px;
+	width: 100%;
+	
+	text-decoration: none;
+	
+	font-size: 12px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	color: #636;
+}
+
+.cuadromitadinferiorletrasblanco a:hover, .cuadromitadinferiorletrasblanco a:active, .cuadromitadinferiorletrasblanco a:focus { 
+	width: 280px;
+
+display: block; /* esto asigna propiedades de bloque al vínculo, lo que provoca que llene todo el LI que lo contiene. Esto provoca que toda el área reaccione a un clic de ratón. */
+
+	
+	
+	height: 35px;
+	
+	
+	
+	float: left;
+	position: relative;
+	
+	vertical-align: central;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	
+}
+
+
+
+
+/* separador */
+
+.cuadromitadcentroinferior {
+	float: left;
+	width: 60px;
+	position: relative;
+	height: 20px;
+	text-align: center;
+}
+
+/*
+
+ <div class="cuadrogeneral">
+         end #mainContent 
+       		<div class="cuadromitadcentroinferior"></div>
+       		<div class="cuadromitad"><a href="#"><img src="402.jpg" alt="" width="600" height="400" class="fotocentral" /></a></div>
+       		<div class="cuadromitadcentroinferior"></div>
+       		<div class="cuadromitad"><a href="#"><img src="402.jpg" width="600" height="400" class="fotocentral" /></a></div>
+	   		<div class="cuadromitadcentroinferior"></div>
+     </div>
+    <div class="cuadrogeneralinferior">
+			<div class="cuadromitadcentroinferior"></div>
+        	<div class="cuadromitadinferior"><a href="#">Reformas en General</a></div>
+        	<div class="cuadromitadcentroinferior"></div>
+        	<div class="cuadromitadinferior"><a href="#">Nueva Construcción </a></div>
+        	<div class="cuadromitadcentroinferior"></div>
+      </div>
+     */
+
+
+/*------------foto titulo y letras moviles  ------- */
+/*
+    <div class="cuadrogeneral">
+         end #mainContent 
+       		<div class="cuadromitadcentroinferior"></div>
+       		<div class="cuadromitad"><a href="#"><img src="402.jpg" alt="" width="600" height="400" class="fotocentral" /></a></div>
+       		<div class="cuadromitadcentroinferior"></div>
+       		<div class="cuadromitad"><a href="#"><img src="402.jpg" width="600" height="400" class="fotocentral" /></a></div>
+	   		<div class="cuadromitadcentroinferior"></div>
+     </div>
+    <div class="cuadrogeneralinferior">
+			<div class="cuadromitadcentroinferior"></div>
+        	<div class="cuadromitadinferior"><a href="#">Reformas en General</a></div>
+        	<div class="cuadromitadcentroinferior"></div>
+        	<div class="cuadromitadinferior"><a href="#">Nueva Construcción </a></div>
+        	<div class="cuadromitadcentroinferior"></div>
+      </div>
+      <div class="cuadrogeneralinferiorletras">
+			<div class="cuadromitadcentroinferior"></div>
+        	<div class="cuadromitadinferiorletras"><a href="#">Reformas de todo tipo de viviendas, pilos, chalet, casas.</a></div>
+        	<div class="cuadromitadcentroinferior"></div>
+        	<div class="cuadromitadinferiorletras"><a href="#">Reformas de todo tipo de viviendas, pilos, chalet, casas.</a></div>
+        	<div class="cuadromitadcentroinferior"></div>
+      </div>
+	  */
+	  
