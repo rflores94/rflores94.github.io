@@ -2,29 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bf530475-4902-4c72-9943-d01367b935cd" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/residencia/actividades/4 (2).jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/residencia/actividades/Tallerdeteatro.JPG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/residencia/actividades/actividad1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/residencia/actividades/actividad2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/residencia/actividades/actividad3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/residencia/actividades/actividad4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/residencia/actividades/actividad5.JPG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/residencia/actividades/antigua.JPG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/residencia/actividades/carnaval2015.JPG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/residencia/actividades/charanga.JPG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/residencia/actividades/cruzmayo2015.JPG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/residencia/actividades/gachas.JPG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/residencia/actividades/guadalupe1.JPG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/residencia/actividades/guadalupe2.JPG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/residencia/actividades/gualupe3.JPG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/residencia/actividades/visitabelenes2015.JPG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/residencia/actividades/voluntariado.JPG" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/residencia/img/por1.jpg" afterPath="$PROJECT_DIR$/residencia/img/por1.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/residencia/img/por2.jpg" afterPath="$PROJECT_DIR$/residencia/img/por2.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/residencia/img/por3.jpg" afterPath="$PROJECT_DIR$/residencia/img/por3.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/residencia/img/por4.jpg" afterPath="$PROJECT_DIR$/residencia/img/por4.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/residencia/actividades/actividades.html" afterPath="$PROJECT_DIR$/residencia/actividades/actividades.html" />
     </list>
     <ignored path="rflores94.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -217,7 +195,13 @@
       <option name="project" value="LOCAL" />
       <updated>1466515008039</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Final">
+      <created>1466867526994</created>
+      <option name="number" value="00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1466867526994</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -226,6 +210,7 @@
     <layout>
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3299435" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3299435" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3299435" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -233,7 +218,6 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3299435" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -259,7 +243,8 @@
     <MESSAGE value="Prueba" />
     <MESSAGE value="GIF cambiado" />
     <MESSAGE value="Faltan las actividades" />
-    <option name="LAST_COMMIT_MESSAGE" value="Faltan las actividades" />
+    <MESSAGE value="Final" />
+    <option name="LAST_COMMIT_MESSAGE" value="Final" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
