@@ -1,0 +1,63 @@
+=flexHorizontal()
+  display: flex
+  flex-flow: row
+  justify-content: space-around
+  align-items: center
+  flex-wrap: rwrap
+
+*
+  font-family: 'Roboto', sans-serif
+
+nav
+  +flexHorizontal
+  background-color: #753069
+  position: fixed
+  width: 100%
+  height: 8%
+  a
+    text-decoration: none
+    color: black
+    width: 100%
+    height: 100%
+    display: flex
+    align-items: center
+    justify-content: center
+    color: white
+    &:hover
+      background-color: #582c50
+.separador
+  height: 8vh
+#cabecera
+  background-image: url("../img/animacion.gif")
+  background-size: 100% 100%
+  height: 92vh
+  width: 100%
+
+h1, h2
+  text-align: center
+  color: #996600
+.principal
+  // padding-top: 8vh
+  margin: 0 10px
+  p
+    color: #663382
+  .video
+    text-align: center
+    *
+      max-width: 100%
+#servicios
+  display: flex
+  flex-direction: column
+  justify-content: center
+  margin: 0 15px
+  .servicio
+    display: flex
+    flex-direction: row
+    justify-content: flex-start
+    align-items: flex-start
+    img
+      max-width: 20%
+    .textoServicio
+      margin: 15px
+      p
+        color: #717F4E
