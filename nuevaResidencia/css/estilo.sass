@@ -3,6 +3,7 @@ $colorEncabezados: #996600
 $colorParrafo: #717F4E
 $colorTextoPrincipal: #663382
 $break-small: 451px
+$break-medium: 700px
 
 h1, h2
   text-align: center
@@ -17,6 +18,16 @@ nav, footer
 
 main
   margin: 0 20px
+
+.brand-logo
+  background-image: url("../img/logo.jpg")
+  background-size: 100% 100%
+  height: 100%
+  width: 16vw
+  @media screen and (max-width: $break-medium)
+    height: 100%
+    width: 40vw
+
 
 .principal
   p
